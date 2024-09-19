@@ -15,5 +15,5 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/</a> 
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="40" height="40"/> </a> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://www.langchain.com/_next/static/media/logo.7d951576.svg" alt="langchain" width="40" height="40"/> </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://python.langchain.com/v0.1/img/brand/theme-image.png" alt="openai" width="40" height="40"/> </a> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://www.langchain.com/_next/static/media/logo.7d951576.svg" alt="langchain" width="40" height="40"/> </a>
 </p>
