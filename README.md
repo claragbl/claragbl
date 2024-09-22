@@ -16,6 +16,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/</a> 
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/langfr-130px-OpenAI_Logo.svg.png" alt="openai" width="40" height="40"/> </a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.xavierstuder.com/wp-content/uploads/2023/01/OpenAi_ChatGPT_logo.jpg?fit=2438%2C1600&ssl=1" alt="openai" width="40" height="40"/> </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=48&amp;v=4" alt="langchain" width="40" height="40"/> </a>
 </p>
